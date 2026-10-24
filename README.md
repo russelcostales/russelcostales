@@ -5,9 +5,10 @@ Work with us: [shukiyo.com/freelance](https://shukiyo.com/freelance)
 
 Pursuing a bachelor's in Software Engineering at UTD.<br>
 
-Developer with contributions to experiences totaling 500M+ plays, including a 2025 RIA nominee. I build scalable mechanics that run across console, mobile, and PC.<br>
-Additional experience in environmental design and 3D art, including sculpting, hard-surface modeling, rigging and animation, and texturing. <br>
-Particular interest in blending sound design with mechanics to improve immersion and emotional response.
+Developer with contributions to experiences totaling 500M+ plays, including a 2025 RIA nominee. <br>
+I build scalable mechanics that run across console, mobile, and PC.<br>
+Additional experience in environmental design and 3D art: sculpting, hard-surface modeling, rigging and animation, texturing. <br>
+I have a particular interest in blending sound design with mechanics to improve immersion and emotional response.
 
 Languages/Programs I work with:
 <p>
