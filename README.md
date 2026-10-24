@@ -1,4 +1,4 @@
-Hey! I'm Russel.
+**Hey! I'm Russel.**
 
 Currently building SHUKIYO.<br>
 Work with us: [shukiyo.com/freelance](https://shukiyo.com/freelance)
