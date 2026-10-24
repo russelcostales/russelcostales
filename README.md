@@ -4,6 +4,7 @@ Currently building SHUKIYO.<br>
 Work with us: [shukiyo.com/freelance](https://shukiyo.com/freelance)
 
 Pursuing a bachelor's in Software Engineering at UTD.<br>
+
 Developer with contributions to experiences totaling 500M+ plays, including a 2025 RIA nominee. I build scalable mechanics that run across console, mobile, and PC.<br>
 Additional experience in environmental design and 3D art, including sculpting, hard-surface modeling, rigging and animation, and texturing.
 
